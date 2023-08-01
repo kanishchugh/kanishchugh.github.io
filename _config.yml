@@ -1,0 +1,15 @@
+# Site settings
+title: Hi, I'm Kanish.
+description: Kanish Chugh' professional portfolio site
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Kanish Chugh
+user_title: Mr.
+user_job_title: Data Scientist
+email: kanishchugh2001 [at] gmail.com
+twitter_username: kanish_chugh
+github_username:  kanishchugh
+
+exclude: ['package.json', 'src' , 'node_modules']
